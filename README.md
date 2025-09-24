@@ -3,7 +3,7 @@
   <img src="https://github.com/PoohPornpawee/PoohPornpawee/blob/main/assets/testing-banner.gif" alt="Software Testing Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Pornpawee Junthajorn (Pooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center"> Pornpawee Junthajorn (ChomPooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>🧪 Software Tester • Quality Assurance Engineer • Test Automation Enthusiast</strong><br/>
