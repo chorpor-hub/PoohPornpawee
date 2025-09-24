@@ -3,7 +3,7 @@
   <img src="https://github.com/PoohPornpawee/PoohPornpawee/blob/main/assets/testing-banner.gif" alt="Software Testing Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Pornpawee Junthajorn (Pooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Pornpawee Junthajorn (ChomPooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>🧪 Software Tester • Quality Assurance Engineer • Test Automation Enthusiast</strong><br/>
@@ -157,21 +157,14 @@ My Testing Approach
 
 </div>
 
-- 💌 **Email**: pornpawee.test@gmail.com  
+- 💌 **Email**: puangchompooh.jmp@gmail.com  
 - 📝 **Schedule a testing consultation**: [Calendly](https://calendly.com/pooh-testing/30min)  
 - 🐦 **DM me for testing discussions**: [X/Twitter](https://twitter.com/PoohTester)
 - 🤝 **Open to**: Collaboration on testing projects, mentoring junior testers
 
 ---
 
-<div align="center">
-  
-  ### 🌈 Fun Fact
-  **When I'm not breaking software, I'm probably thinking about how to break it better! 🐛✨**
-  
-  <img src="https://komarev.com/ghpvc/?username=PoohPornpawee&style=for-the-badge&color=brightgreen" alt="profile views"/>
-  
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Testing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" />
