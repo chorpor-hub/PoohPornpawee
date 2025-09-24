@@ -21,15 +21,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I'm currently learning **Advanced Test Automation with Robot Framework**  
-- 🛠  Daily driver tools: **Visual Studio Code • Robot Framework • Selenium**  
-- 🎯  2025 Goal: **Build a comprehensive test automation framework for mobile apps**  
-- 🔍  Passionate about: **API Testing • Performance Testing • Test Strategy Design**
-- 📫  Reach me: **pornpawee.test@gmail.com** | [LinkedIn](https://linkedin.com/in/pornpawee-junthajorn) | [X/Twitter](https://twitter.com/PoohTester)
+I am an Information Technology student with a strong interest and passion for software testing. I have a solid foundation in this field and possess a dedicated attitude toward learning and continuous self-improvement. I am also able to work effectively with others. I believe that challenges are opportunities for personal growth, and I am ready to apply my knowledge to achieve the best possible results.
 
----
-
-## 💼 Core Skills & Competencies
+## 💼  Skills & Languages 
 
 ### 🛠 Technical Skills
 <div align="center">
