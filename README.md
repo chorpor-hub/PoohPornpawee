@@ -3,7 +3,7 @@
   <img src="https://github.com/PoohPornpawee/PoohPornpawee/blob/main/assets/testing-banner.gif" alt="Software Testing Banner" />
 </p>
 
-<h1 align="center"> Pornpawee Junthajorn (ChomPooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I'm Pornpawee Junthajorn (Pooh) <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>🧪 Software Tester • Quality Assurance Engineer • Test Automation Enthusiast</strong><br/>
@@ -157,7 +157,7 @@ My Testing Approach
 
 </div>
 
-- 💌 **Email**: puangchompooh.jmp@gmail.com  
+- 💌 **Email**: pornpawee.test@gmail.com  
 - 📝 **Schedule a testing consultation**: [Calendly](https://calendly.com/pooh-testing/30min)  
 - 🐦 **DM me for testing discussions**: [X/Twitter](https://twitter.com/PoohTester)
 - 🤝 **Open to**: Collaboration on testing projects, mentoring junior testers
