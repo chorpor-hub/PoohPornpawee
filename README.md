@@ -146,7 +146,7 @@ My Testing Approach
 
 </div>
 
-- 💌 **Email**: pornpawee.test@gmail.com  
+- 💌 **Email**: puanchompooh.jmp@gmail.com  
 - 📝 **Schedule a testing consultation**: [Calendly](https://calendly.com/pooh-testing/30min)  
 - 🐦 **DM me for testing discussions**: [X/Twitter](https://twitter.com/PoohTester)
 - 🤝 **Open to**: Collaboration on testing projects, mentoring junior testers
