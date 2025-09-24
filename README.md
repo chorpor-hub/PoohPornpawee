@@ -21,9 +21,15 @@
 ---
 
 ## 🚀 About Me
-I am an Information Technology student with a strong interest and passion for software testing. I have a solid foundation in this field and possess a dedicated attitude toward learning and continuous self-improvement. I am also able to work effectively with others. I believe that challenges are opportunities for personal growth, and I am ready to apply my knowledge to achieve the best possible results.
+- 🌱  I'm currently learning **Advanced Test Automation with Robot Framework**  
+- 🛠  Daily driver tools: **Visual Studio Code • Robot Framework • Selenium**  
+- 🎯  2025 Goal: **Build a comprehensive test automation framework for mobile apps**  
+- 🔍  Passionate about: **API Testing • Performance Testing • Test Strategy Design**
+- 📫  Reach me: **pornpawee.test@gmail.com** | [LinkedIn](https://linkedin.com/in/pornpawee-junthajorn) | [X/Twitter](https://twitter.com/PoohTester)
 
-## 💼  Skills & Languages 
+---
+
+## 💼 Core Skills & Competencies
 
 ### 🛠 Technical Skills
 <div align="center">
@@ -51,6 +57,17 @@ I am an Information Technology student with a strong interest and passion for so
 - 🗣️ **Excellent Communication**: Clear bug reporting and stakeholder collaboration
 - 👥 **Outstanding Teamwork**: Excellent team player fostering collaborative environment
 - 🔄 **High Adaptability**: Quick to learn new tools and adapt to changing project requirements
+
+### 🌍 Languages
+<div align="center">
+
+![Thai](https://img.shields.io/badge/Thai-Native-red?style=for-the-badge&logo=thailand&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge&logo=uk&logoColor=white)
+
+</div>
+
+- 🇹🇭 **Thai**: Native speaker
+- 🇺🇸 **English**: Intermediate level - Technical reading & basic communication
 
 ---
 
@@ -140,7 +157,7 @@ My Testing Approach
 
 </div>
 
-- 💌 **Email**: puanchompooh.jmp@gmail.com  
+- 💌 **Email**: puangchompooh.jmp@gmail.com  
 - 📝 **Schedule a testing consultation**: [Calendly](https://calendly.com/pooh-testing/30min)  
 - 🐦 **DM me for testing discussions**: [X/Twitter](https://twitter.com/PoohTester)
 - 🤝 **Open to**: Collaboration on testing projects, mentoring junior testers
