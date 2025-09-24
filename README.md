@@ -85,7 +85,7 @@
 
 ---
 
-## 📌 Featured Testing Projects
+## 📌 PROJECT EXPERIXENCE
 | Project | Tech Stack | Test Coverage | Links |
 |---------|------------|---------------|-------|
 | **E-commerce Test Suite** | Robot Framework · Selenium · Python | 95% automated regression tests | [Repo](https://github.com/PoohPornpawee/ecommerce-test-suite) · [Report](https://poohpornpawee.github.io/test-reports) |
@@ -147,7 +147,7 @@ My Testing Approach
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝  Connect
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pornpawee.test@gmail.com)
@@ -158,9 +158,7 @@ My Testing Approach
 </div>
 
 - 💌 **Email**: puangchompooh.jmp@gmail.com  
-- 📝 **Schedule a testing consultation**: [Calendly](https://calendly.com/pooh-testing/30min)  
-- 🐦 **DM me for testing discussions**: [X/Twitter](https://twitter.com/PoohTester)
-- 🤝 **Open to**: Collaboration on testing projects, mentoring junior testers
+
 
 ---
 
